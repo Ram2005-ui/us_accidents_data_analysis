@@ -1,12 +1,12 @@
-🚗 US Accidents Data Analysis
-📊 RoadSafe Analytics: Exploratory Data Analysis (EDA) of Road Accidents
-📌 Project Overview
+🚗 **US Accidents Data Analysis**
+📊 **RoadSafe Analytics: Exploratory Data Analysis (EDA) of Road Accidents**
+📌 **Project Overview**
 
 The US Accidents Data Analysis project focuses on performing exploratory data analysis (EDA) on a large-scale dataset of road accidents across the United States.
 The goal is to uncover trends, patterns, and key factors contributing to accident severity.
 By analyzing this real-world dataset, we aim to derive actionable insights that can support road safety awareness, improve infrastructure planning, and guide policy recommendations.
 
-🎯 Objectives
+🎯 **Objectives**
 
 Acquire and explore a large, real-world accidents dataset.
 
@@ -20,7 +20,7 @@ Perform hypothesis testing to identify significant relationships.
 
 Present clear insights to help reduce road accidents and improve safety measures.
 
-📂 Dataset
+📂 **Dataset**
 
 Source: US Accidents Dataset (Kaggle)
 
@@ -38,7 +38,7 @@ Weather Conditions (temperature, visibility, wind speed, etc.)
 
 Road Conditions (traffic signals, junctions, crossings)
 
-🧩 Project Workflow
+🧩 **Project Workflow**
 1️⃣ Dataset Acquisition & Exploration
 
 Import data using Pandas.
@@ -101,7 +101,7 @@ Prepare a final report with findings, graphs, and recommendations.
 
 Summarize actionable insights for road safety policy makers.
 
-💡 Key Insights (Expected)
+💡 **Key Insights (Expected)**
 
 Peak accident times during rush hours.
 
@@ -111,7 +111,7 @@ Weather factors (fog, rain, snow) significantly influence accident severity.
 
 Certain road features (junctions, intersections) are high-risk zones.
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Programming Language: Python
 

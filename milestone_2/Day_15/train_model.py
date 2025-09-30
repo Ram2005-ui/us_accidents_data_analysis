@@ -14,4 +14,5 @@ model.fit(X, y)
 
 # Save model
 joblib.dump(model, 'iris_model.pkl')
+
 print("✅ Model trained and saved as 'iris_model.pkl'")
